@@ -1,5 +1,5 @@
 **<h3 style="color:#3e8da3">ABOUT ME</h3>**
-My name is Ananda Fitra, and i am the person who behind OXXYDDE. Currently active being an competitive programmer who has participated and won several regional competitions led by universities. Interested in Competitive Programming (still), AI/ML Development, and Mobile App Development.
+My name is Ananda Fitra, and i am the person who behind OXXYDDE. Currently active being an competitive programmer who has participated and won several regional competitions led by universities. Interested in Competitive Programming (still), Blockchain Engineering, Backend Development, and Mobile App Development.
 
 You can reach me in another platform here :
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="20"></img> **Instagram : [instagram.com/oxxydde](https://instagram.com/oxxydde)**
