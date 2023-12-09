@@ -4,7 +4,7 @@
 ### **Hello, welcome to my GitHub profile. 👋**
 My name is Ananda Fitra, and i am the person who behind OXXYDDE. Currently active being an Competitive Programmer who has participated and won several regional competitions led by universities, and i am also an System Administrator that maintains several servers. Currently being active in Competitive Programming, Web3/Blockchain Engineering, Backend Development, DevOps Engineer, System Administrator, Network Engineer, and Front End Web Development.
 - 🔭 I'm a Informatics Engineering student at Brawijaya University
-- 💻 Often using Docker, Bash, and Proxmox for deploying services
+- 💻 Often using Go, Docker, and Bash for my workflow
 - 🌱 I'm currently learning Kubernetes, Next.js, TailwindCSS, and many more
 
 <!-- SOCIAL SECTIONS -->
