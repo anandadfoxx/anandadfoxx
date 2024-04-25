@@ -89,4 +89,4 @@ You can reach me in another platform here :
 <!-- GITHUB STATS SECTION -->
 
 **<h2 style="color:#3e8da3">MY GITHUB STATS</h2>**
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=oxxydde&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandadfoxx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
